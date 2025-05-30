@@ -1,4 +1,4 @@
-# Numerical Solution of Diode Circuit
+# Numerical Solution of Diode Circuit Using Newton-Raphson Method
 
 ```txt
 Kelompok 18
