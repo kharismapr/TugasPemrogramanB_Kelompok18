@@ -5,7 +5,7 @@ Kelompok 18
 - Arsinta Kirana Nisa (2306215980)
 - Kharisma Aprilia (2306223244)
 - Isyana Trevia Pohaci (2306250592)
-- Stevie Nathania Siregar (2306220532)
+- Stevie Nathania Siregar (2306242382)
 ```
 
 ## Deskripsi Program
